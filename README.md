@@ -30,7 +30,7 @@
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars3.githubusercontent.com/u/25959096?v=4" width="100px;"/><br /><sub><b>Brion Mario</b></sub>](https://www.linkedin.com/in/brion-mario/)<br />[📖](https://github.com/Brion Mario/apareciumlabs-maintenance-page/commits?author=brionmario "Documentation") |
+| [<img src="https://avatars3.githubusercontent.com/u/25959096?v=4" width="100px;"/><br /><sub><b>Brion Mario</b></sub>](http://www.brionmario.com)<br /> |
 | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
