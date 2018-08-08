@@ -5,9 +5,15 @@
     <img style="display:block;text-align:center" src="https://user-images.githubusercontent.com/25959096/43851190-96e4c596-9b57-11e8-9653-74657d00a99f.png" alt="logo-text" width="600" />
 </p>
 
-# Website Maintenance Page
 
-This repository serves as the front-end code base for the Aparecium Labs website maintenance page.
+<h1 align="center">
+  Website Maintenance Page
+</h1>
+<p align="center" style="font-size: 1.2rem;">front-end code base for the Aparecium Labs website maintenance page</p>
+
+<hr />
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors)
 
 ##### Demo - [http://dev.apareciumlabs.com/](http://dev.apareciumlabs.com/)
 
@@ -23,8 +29,7 @@ This repository serves as the front-end code base for the Aparecium Labs website
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
- | [<img src="https://avatars0.githubusercontent.com/u/25959096?s=400&v=4" width="100px;"/><br /><sub>Brion Mario</sub>][brion-profile] |
- | :---: |
+<!-- prettier-ignore -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## Copyright and License
