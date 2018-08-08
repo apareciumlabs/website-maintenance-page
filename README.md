@@ -13,7 +13,7 @@
 
 <hr />
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 ##### Demo - [http://dev.apareciumlabs.com/](http://dev.apareciumlabs.com/)
 
@@ -30,6 +30,8 @@
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
+| [<img src="https://avatars3.githubusercontent.com/u/25959096?v=4" width="100px;"/><br /><sub><b>Brion Mario</b></sub>](https://www.linkedin.com/in/brion-mario/)<br />[📖](https://github.com/Brion Mario/apareciumlabs-maintenance-page/commits?author=brionmario "Documentation") |
+| :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## Copyright and License
