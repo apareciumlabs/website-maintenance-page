@@ -9,6 +9,8 @@
 
 This repository serves as the front-end code base for the Aparecium Labs website maintenance page.
 
+##### Demo - [http://dev.apareciumlabs.com/](http://dev.apareciumlabs.com/)
+
 ## Built With
 
 <p>
@@ -17,6 +19,13 @@ This repository serves as the front-end code base for the Aparecium Labs website
     <img style="display:inline-block;padding: 5px 10px" src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png" alt="gulp" height="50" />
     <img style="display:inline-block;padding: 5px 10px" src="https://cdn-images-1.medium.com/max/1600/0*g3ns8QALNBBH7CBA." alt="jquery" height="50" />
 </p>
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+ [<img src="https://avatars0.githubusercontent.com/u/25959096?s=400&v=4" width="100px;"/><br /><sub>Brion Mario</sub>][brion-profile]|
+| :---: |
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## Copyright and License
 
