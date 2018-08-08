@@ -12,10 +12,10 @@ This repository serves as the front-end code base for the Aparecium Labs website
 ## Built With
 
 <p>
-    <img style="display:inline-block;" src="https://camo.githubusercontent.com/8f12b9c1c1759161b9238fd2cec75fa26aad23e1/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f342e312f6173736574732f6272616e642f626f6f7473747261702d736f6c69642e737667" alt="bootstrap" height="50" />
-    <img style="display:inline-block;" src="https://camo.githubusercontent.com/f1e23b7f0efb3e6acf2b5a11c0379e5c51cc911b/68747470733a2f2f7261776769742e636f6d2f736173732f6e6f64652d736173732f6d61737465722f6d656469612f6c6f676f2e737667" alt="sass" height="50" />
-    <img style="display:inline-block;" src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png" alt="gulp" height="50" />
-    <img style="display:inline-block;" src="https://cdn-images-1.medium.com/max/1600/0*g3ns8QALNBBH7CBA." alt="jquery" height="50" />
+    <img style="display:inline-block;padding: 5px 10px" src="https://camo.githubusercontent.com/8f12b9c1c1759161b9238fd2cec75fa26aad23e1/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f342e312f6173736574732f6272616e642f626f6f7473747261702d736f6c69642e737667" alt="bootstrap" height="50" />
+    <img style="display:inline-block;padding: 5px 10px" src="https://camo.githubusercontent.com/f1e23b7f0efb3e6acf2b5a11c0379e5c51cc911b/68747470733a2f2f7261776769742e636f6d2f736173732f6e6f64652d736173732f6d61737465722f6d656469612f6c6f676f2e737667" alt="sass" height="50" />
+    <img style="display:inline-block;padding: 5px 10px" src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png" alt="gulp" height="50" />
+    <img style="display:inline-block;padding: 5px 10px" src="https://cdn-images-1.medium.com/max/1600/0*g3ns8QALNBBH7CBA." alt="jquery" height="50" />
 </p>
 
 ## Copyright and License
