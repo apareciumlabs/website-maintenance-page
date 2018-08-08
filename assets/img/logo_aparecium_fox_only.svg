@@ -3,20 +3,6 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1200px"
 	 height="1200px" viewBox="0 0 1200 1200" enable-background="new 0 0 1200 1200" xml:space="preserve" class="aparecium-logo fox">
-<g id="Background" display="none">
-	<radialGradient id="BG_1_" cx="600" cy="600" r="600" gradientUnits="userSpaceOnUse">
-		<stop  offset="0" style="stop-color:#1A2534"/>
-		<stop  offset="1" style="stop-color:#1A252C"/>
-	</radialGradient>
-	<rect id="BG" display="inline" fill="url(#BG_1_)" width="1200" height="1200"/>
-	<polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="12.118,12.654 12.118,1188.541 12.118,1188.058 
-		1187.064,1188.058 1186.561,1188.058 1186.561,13.616 1187.061,13.12 11.656,13.12 	"/>
-</g>
-<g id="Guides">
-</g>
-<g id="Slogan" display="none">
-	<text transform="matrix(1 0 0 1 690.085 1048.5684)" display="inline"><tspan x="0" y="0" fill="#F36B31" font-family="'Helvetica-Bold'" font-size="36">{</tspan><tspan x="14.01" y="0" font-family="'Helvetica-Bold'" font-size="21">  </tspan><tspan x="25.679" y="0" fill="#BDBEBF" font-family="'Helvetica'" font-size="21">Reveal Your Business With Us</tspan><tspan x="311.619" y="0" font-family="'Helvetica-Bold'" font-size="21">  </tspan><tspan x="323.288" y="0" fill="#F36B31" font-family="'Helvetica-Bold'" font-size="36">}</tspan></text>
-</g>
 <g id="Fox">
 	<polygon fill="#BDBEC0" stroke="#FFFFFF" stroke-miterlimit="10" points="1058.977,356.682 1100.332,463.247 926.018,623.893
 		926.214,567.694 	"/>
@@ -71,11 +57,5 @@
 	<polygon fill="#D34E29" stroke="#FFFFFF" stroke-miterlimit="10" points="872.783,588.951 926.214,567.694 716.814,817.89 	"/>
 	<polygon fill="#0B1525" stroke="#FFFFFF" stroke-miterlimit="10" points="926.214,567.694 926.018,623.893 716.814,817.89 	"/>
 	<polygon fill="#F89C68" stroke="#FFFFFF" stroke-miterlimit="10" points="872.783,588.951 837.496,532.569 926.214,567.694 	"/>
-</g>
-<g id="Logo" display="none">
-	
-		<text transform="matrix(1 0 0 1 163.0205 997.835)" display="inline" fill="#DEDEDF" font-family="'Norwester-Regular'" font-size="132.308">APARECIUM</text>
-	
-		<text transform="matrix(1 0 0 1 761.5977 997.835)" display="inline" fill="#F36B30" font-family="'Norwester-Regular'" font-size="132.308">LABS</text>
 </g>
 </svg>
