@@ -1,5 +1,5 @@
 <p align="center">
-    <img style="display:block;text-align:center" src="https://user-images.githubusercontent.com/25959096/43851246-bc4484d4-9b57-11e8-809a-a191a4f93851.png" alt="logo" width="600" />
+    <img style="display:block;text-align:center" src="https://user-images.githubusercontent.com/25959096/43851246-bc4484d4-9b57-11e8-809a-a191a4f93851.png" alt="logo" width="800" />
 </p>
 
 # Aparecium Labs - Maintenance Page
