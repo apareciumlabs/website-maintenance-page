@@ -23,8 +23,8 @@ This repository serves as the front-end code base for the Aparecium Labs website
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
- [<img src="https://avatars0.githubusercontent.com/u/25959096?s=400&v=4" width="100px;"/><br /><sub>Brion Mario</sub>][brion-profile]|
-| :---: |
+ | [<img src="https://avatars0.githubusercontent.com/u/25959096?s=400&v=4" width="100px;"/><br /><sub>Brion Mario</sub>][brion-profile] |
+ | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## Copyright and License
