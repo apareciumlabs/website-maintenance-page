@@ -7,7 +7,7 @@
 
 
 <h1 align="center">
-  Website Maintenance Page
+  :wrench: Website Maintenance Page :wrench:
 </h1>
 <p align="center" style="font-size: 1.2rem;">Front-end code base for the Aparecium Labs website maintenance page</p>
 
