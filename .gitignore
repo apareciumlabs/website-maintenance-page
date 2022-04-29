@@ -5,6 +5,10 @@
 /tmp
 /out-tsc
 
+# generated files
+/vendor
+/css
+
 # dependencies
 /node_modules
 
