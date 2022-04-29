@@ -17,7 +17,7 @@ var banner = ['/*!\n',
 ].join('');
 
 // Copy third party libraries from /node_modules into /vendor
-gulp.task('vendor', function() {
+gulp.task('vendor', async function() {
 
   // Bootstrap
   gulp.src([
@@ -94,8 +94,28 @@ gulp.task('js:minify', function() {
 // JS
 gulp.task('js', gulp.series('js:minify'));
 
+// Create Distribution
+gulp.task('copy-to-dist', async function() {
+
+  // Copy Vendors
+  gulp.src('./vendor/**')
+    .pipe(gulp.dest('./dist/vendor'));
+
+  // Copy CSS
+  gulp.src('./css/**')
+  .pipe(gulp.dest('./dist/css'));
+
+  // Copy Assets
+  gulp.src('./assets/**')
+  .pipe(gulp.dest('./dist/assets'));
+
+  // Copy Assets
+  gulp.src('./index.html')
+  .pipe(gulp.dest('./dist'));
+});
+
 // Default task
-gulp.task('default', gulp.series('css', 'js', 'vendor'));
+gulp.task('default', gulp.series('css', 'js', 'vendor', 'copy-to-dist'));
 
 // Configure the browserSync task
 gulp.task('browserSync', function() {

@@ -24,6 +24,10 @@
         "url": "https://github.com/apareciumlabs/website-maintenance-page.git"
     },
     "scripts": {
+        "start": "gulp dev",
+        "build": "gulp",
+        "clean": "rimraf dist",
+        "clean:all": "npm run clean && rimraf node_modules",
         "contributors:add": "all-contributors add",
         "contributors:generate": "all-contributors generate"
     },
@@ -41,6 +45,7 @@
         "gulp-rename": "^2.0.0",
         "gulp-sass": "^5.1.0",
         "gulp-uglify": "^3.0.2",
+        "rimraf": "^3.0.2",
         "sass": "^1.51.0"
     }
 }
