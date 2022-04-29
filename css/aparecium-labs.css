@@ -1,6 +1,6 @@
 /*!
  * Aparecium Labs - Website Maintenance Page v0.1.0 (https://github.com/apareciumlabs/website-maintenance-page)
- * Copyright 2018 Brion Silva
+ * Copyright 2022 Brion Silva
  * Licensed under MIT (https://github.com/apareciumlabs/apareciumlabs-maintenance-page/blob/master/LICENSE)
  */
 /*! ========================================================================= *
@@ -26,7 +26,7 @@ html {
 
 body {
   font-size: 16px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   width: 100%;
   height: 100%;
   margin: 0;
@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1, h2, h3 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 p {
@@ -83,7 +83,7 @@ h5 {
 }
 
 h6 {
-  font-size: .9em;
+  font-size: 0.9em;
   letter-spacing: 1px;
 }
 
@@ -91,7 +91,7 @@ a, button {
   display: inline-block;
   text-decoration: none;
   color: inherit;
-  transition: all .3s;
+  transition: all 0.3s;
   line-height: 1;
 }
 
@@ -140,7 +140,7 @@ b.light-color {
   line-height: inherit;
 }
 
-[class^="icon-"]:before, [class*=" icon-"]:before {
+[class^=icon-]:before, [class*=" icon-"]:before {
   line-height: inherit;
 }
 
@@ -153,7 +153,6 @@ html {
   -webkit-box-sizing: inherit;
   box-sizing: inherit;
 }
-
 *::before, *::after {
   -webkit-box-sizing: inherit;
   box-sizing: inherit;
@@ -175,22 +174,22 @@ html {
 }
 
 ::-webkit-input-placeholder {
-  font-size: .9em;
+  font-size: 0.9em;
   letter-spacing: 1px;
 }
 
 ::-moz-placeholder {
-  font-size: .9em;
+  font-size: 0.9em;
   letter-spacing: 1px;
 }
 
 :-ms-input-placeholder {
-  font-size: .9em;
+  font-size: 0.9em;
   letter-spacing: 1px;
 }
 
 :-moz-placeholder {
-  font-size: .9em;
+  font-size: 0.9em;
   letter-spacing: 1px;
 }
 
@@ -228,38 +227,31 @@ html {
   position: relative;
   padding: 0 60px;
 }
-
 .right-section .logo {
   position: absolute;
   top: 40px;
   height: 60px;
 }
-
 .right-section .logo img {
   height: 100%;
   width: auto;
 }
-
 .right-section .content {
   padding: 40px 40px 40px 0;
 }
-
 .right-section .content .title {
   margin-bottom: 15px;
   text-transform: uppercase;
 }
-
 .right-section .content .desc {
   color: #eeeeee;
 }
-
 .right-section .content .email-input-area {
   margin: 40px 0 20px;
   position: relative;
   width: 400px;
   height: 47px;
 }
-
 .right-section .content .email-input-area .email-input {
   width: 100%;
   position: absolute;
@@ -270,16 +262,14 @@ html {
   border: 0;
   outline: 0;
   padding: 0 140px 0 25px;
-  transition: all .2s;
+  transition: all 0.2s;
   background: #F1F2F3;
   box-shadow: inset 0 0 1px rgba(0, 0, 0, 0.1);
   border: 1px solid transparent;
 }
-
 .right-section .content .email-input-area .email-input:focus {
   border-color: #f1582d;
 }
-
 .right-section .content .email-input-area .submit-btn {
   width: 120px;
   text-align: center;
@@ -287,18 +277,16 @@ html {
   top: 0;
   bottom: 0;
   right: 0;
-  font-size: .9em;
+  font-size: 0.9em;
   outline: 0;
   border-radius: 0 2px 2px 0;
-  transition: all .3s;
+  transition: all 0.3s;
   background: #f1582d;
   color: #ffffff;
 }
-
 .right-section .content .email-input-area .submit-btn:hover {
   background: #f15a2f;
 }
-
 .right-section .content .post-desc {
   color: #999999;
   font-size: 12px;
@@ -311,22 +299,18 @@ html {
   left: 0;
   width: 50%;
 }
-
 .left-section .aparecium-logo-container {
   text-align: center;
   padding-top: 20vh;
 }
-
 .left-section .aparecium-logo-container svg {
   width: 70%;
   height: 70%;
 }
-
 .left-section .aparecium-logo-container .aparecium-logo.fox #Fox polygon {
   opacity: 0.9;
   transition: all 0.8s;
 }
-
 .left-section .aparecium-logo-container .aparecium-logo.fox #Fox polygon:hover {
   opacity: 0.8;
   transition: all 0.1s;
@@ -337,46 +321,38 @@ html {
   background-color: #0d1421;
   padding: 10px 15px;
 }
-
 .footer .footer-icons > li > a {
   display: inline-block;
   font-size: 17px;
   padding: 0;
 }
-
 .footer .footer-icons > li > a > i {
   display: inline-block;
   height: 35px;
   line-height: 33px;
-  transition: all .2s;
+  transition: all 0.2s;
   border-radius: 40px;
   text-align: center;
   width: 35px;
 }
-
-.footer .footer-icons > li > a > i[class*="facebook"] {
+.footer .footer-icons > li > a > i[class*=facebook] {
   color: #2A61D6;
   border-color: #2A61D6;
 }
-
-.footer .footer-icons > li > a > i[class*="twitter"] {
+.footer .footer-icons > li > a > i[class*=twitter] {
   color: #3AA4F8;
   border-color: #3AA4F8;
 }
-
-.footer .footer-icons > li > a > i[class*="github"] {
+.footer .footer-icons > li > a > i[class*=github] {
   color: #ecf1f4;
   border-color: #ecf1f4;
 }
-
 .footer .copyright {
   font-size: 10px;
 }
-
 .footer .copyright img {
   margin: 0 5px;
 }
-
 .footer .copyright p {
   color: #ffffff;
   display: inline-block;
@@ -391,6 +367,7 @@ html {
     position: relative;
     height: 200vh;
   }
+
   .right-section {
     float: none;
     width: 100%;
@@ -399,6 +376,7 @@ html {
   .right-section .content {
     padding: 40px 0;
   }
+
   .content .email-input-area {
     width: 100%;
   }
@@ -408,48 +386,51 @@ html {
   .content .email-input-area .submit-btn {
     width: 80px;
   }
+
   .right-section .footer-icons > li > a > i {
     height: 30px;
     line-height: 28px;
     width: 30px;
   }
+
   .left-section {
     position: static;
     width: 100%;
     height: 50%;
   }
 }
-
 /* Screens Resolution : 767px
 -------------------------------------------------------------------------- */
 @media only screen and (max-width: 767px) {
   p {
     line-height: 1.4;
   }
+
   h1 {
     font-size: 2.8em;
     line-height: 1;
   }
+
   h2 {
     font-size: 2.2em;
     line-height: 1.1;
   }
+
   h3 {
     font-size: 1.8em;
   }
 }
-
 /* Screens Resolution : 479px
 -------------------------------------------------------------------------- */
 @media only screen and (max-width: 479px) {
   body {
     font-size: 13px;
   }
+
   .right-section {
     padding: 0 30px;
   }
 }
-
 /* Screens Resolution : 359px
 -------------------------------------------------------------------------- */
 /* Screens Resolution : 290px
